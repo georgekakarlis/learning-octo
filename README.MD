@@ -1,0 +1,1 @@
+Learning tprc by building a blog project with jwt, prisma sql, nextjs, typescript.
